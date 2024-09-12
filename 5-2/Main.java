@@ -4,7 +4,7 @@ public class Main {
     hello();
     System.out.println("メソッドの呼び出しが終わりました");
   }
-  public static void helli(); {
+  public static void hello() {
     System.out.println("湊さん、こんにちは");
   }
 }
