@@ -1,5 +1,10 @@
 public class SuperHero extends Hero {
   boolean flying;
+  
+  public SuperHero() {
+    super();
+    System.out.println("SuperHeroのコンストラクタが動作");
+  }
   //飛ぶ
   public void fly() {
     this.flying = true;
