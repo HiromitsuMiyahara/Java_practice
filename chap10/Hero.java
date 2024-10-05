@@ -9,6 +9,6 @@ public class Hero {
   }
   //逃げる
   public void run() {
-    System.out.println(this.name + "は")
+    System.out.println(this.name + "は逃げ出した");
   }
 }
